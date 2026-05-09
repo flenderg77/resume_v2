@@ -50,7 +50,6 @@ The project was developed through iterative prototyping workflows using AI tools
 
 ## Author
 
-Fan Tianmin
-MSc Applied Statistics
+Fan Tianmin<br>
+MSc Applied Statistics<br>
 University of Southampton
-
